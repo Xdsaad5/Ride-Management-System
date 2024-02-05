@@ -1,0 +1,6 @@
+E:\source\repos\SDC\BSEF20A032_H03\Vehicle\bin\Debug\Vehicle.dll
+E:\source\repos\SDC\BSEF20A032_H03\Vehicle\bin\Debug\Vehicle.pdb
+E:\source\repos\SDC\BSEF20A032_H03\Vehicle\obj\Debug\Vehicle.csproj.AssemblyReference.cache
+E:\source\repos\SDC\BSEF20A032_H03\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+E:\source\repos\SDC\BSEF20A032_H03\Vehicle\obj\Debug\Vehicle.dll
+E:\source\repos\SDC\BSEF20A032_H03\Vehicle\obj\Debug\Vehicle.pdb

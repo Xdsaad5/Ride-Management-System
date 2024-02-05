@@ -1,0 +1,6 @@
+E:\source\repos\SDC\BSEF20A032_H03\Passenger\bin\Debug\Passenger.dll
+E:\source\repos\SDC\BSEF20A032_H03\Passenger\bin\Debug\Passenger.pdb
+E:\source\repos\SDC\BSEF20A032_H03\Passenger\obj\Debug\Passenger.csproj.AssemblyReference.cache
+E:\source\repos\SDC\BSEF20A032_H03\Passenger\obj\Debug\Passenger.csproj.CoreCompileInputs.cache
+E:\source\repos\SDC\BSEF20A032_H03\Passenger\obj\Debug\Passenger.dll
+E:\source\repos\SDC\BSEF20A032_H03\Passenger\obj\Debug\Passenger.pdb
